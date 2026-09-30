@@ -80,7 +80,7 @@ An iPadOS experiment exploring a desktop-style environment with windows, applica
 
 ### [Amethyst Mod Manager iOS](https://github.com/hazerbvisor/Amethyst-modmanager-iOS)
 
-`In Development`
+`Discontinued`
 
 An iOS-focused mod management project exploring a more native way to manage game modifications and related content.
 
