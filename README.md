@@ -80,13 +80,15 @@ An iOS-focused mod management project exploring a more native way to manage game
 
 ---
 
-### [iPadOS 27 Kernel Research](https://github.com/hazerbvisor/IpadOS-27-kernel-research)
+### [LearnCyber](https://github.com/hazerbvisor/LearnCyber)
 
-A research repository for documenting and studying iPadOS kernel structures and related low-level system behavior.
+A free, open-source iPad and iPhone app for learning terminal basics and defensive security through offline, hands-on rooms.
+
+It runs a bundled Alpine Linux ARM64 guest through iSH ARM64 and is designed around local lessons, terminal practice, progress tracking, and defensive-security exercises.
 
 **Focus**
 
-`XNU` `iPadOS` `ARM64` `Systems Research`
+`Cybersecurity` `ARM64` `Linux` `SwiftUI` `iPadOS`
 
 ---
 
