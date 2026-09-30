@@ -26,6 +26,8 @@ A lot of my work starts with one question:
 
 ### [CodexPad Plus](https://github.com/hazerbvisor/codex-for-ipad-Plus)
 
+`In Development`
+
 A native iPadOS workspace for the open-source Codex coding agent.
 
 The interface is built with SwiftUI while the Codex app-server runs inside an ARM64 Linux guest using Alpine aarch64.
@@ -37,6 +39,8 @@ The interface is built with SwiftUI while the Codex app-server runs inside an AR
 ---
 
 ### [CodeApp Plus](https://github.com/hazerbvisor/codeapp-Plus)
+
+`In Development`
 
 An experimental fork of Code App focused on bringing the iPad development experience closer to a full desktop IDE.
 
@@ -50,6 +54,8 @@ The project builds on Monaco and Code App's existing runtime while improving edi
 
 ### [XTool iPadOS Port](https://github.com/hazerbvisor/xtool-ipadOS-port)
 
+`In Development`
+
 Research and development around compiling and packaging applications directly on iPadOS.
 
 The long-term goal is a capable on-device development toolchain without depending entirely on a traditional Mac development environment.
@@ -62,6 +68,8 @@ The long-term goal is a capable on-device development toolchain without dependin
 
 ### [HyperDroid iOS](https://github.com/hazerbvisor/HyperDroid-iOS)
 
+`In Development`
+
 An iPadOS experiment exploring a desktop-style environment with windows, applications, a taskbar, file management, and other desktop interaction patterns.
 
 **Focus**
@@ -72,6 +80,8 @@ An iPadOS experiment exploring a desktop-style environment with windows, applica
 
 ### [Amethyst Mod Manager iOS](https://github.com/hazerbvisor/Amethyst-modmanager-iOS)
 
+`In Development`
+
 An iOS-focused mod management project exploring a more native way to manage game modifications and related content.
 
 **Focus**
@@ -81,6 +91,8 @@ An iOS-focused mod management project exploring a more native way to manage game
 ---
 
 ### [LearnCyber](https://github.com/hazerbvisor/LearnCyber)
+
+`In Development`
 
 A free, open-source iPad and iPhone app for learning terminal basics and defensive security through offline, hands-on rooms.
 
